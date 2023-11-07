@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Gall Botond</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">An avid explorer in the world of technology, I\'m on a never-ending quest to uncover the secrets of the digital realm. With a passion for creativity and an insatiable curiosity, I strive to bring innovative ideas to life. 🚀
+        \n\n
+        When I\'m not immersed in lines of code, you can find me with a steaming cup of coffee, delving into the pages of a good book, or simply gazing at the stars in wonder. 🌌📚✨
+        \n\n
+        As a lifelong learner, I embrace challenges as opportunities for growth and always seek to expand my knowledge horizons. Join me on this journey, and let\'s create something amazing together!
+        \n\n
+        🌟 Exploring the boundless realms of imagination and innovation, I\'m on a perpetual quest to push the limits of what\'s possible. Whether it\'s coding, design, or problem-solving, I thrive on challenges that ignite my passion. 💡
+        \n\n
+        When I\'m not in the digital realm, you can catch me in the great outdoors, savoring the beauty of nature. 🏞️ An advocate for a sustainable future, I believe in the power of small actions to make a big impact. 🌍♻️
+        \n\n
+        Coffee is my faithful companion during late-night coding sessions, and a good playlist fuels my creativity. 🎵✨ Always looking for opportunities to collaborate, I\'m excited to connect with like-minded individuals who share my enthusiasm for innovation and learning. Let\'s create magic together!
+    </string>
+    <string name="hint">What is your nickname?\n</string>
+    <string name="done">Done</string>
+</resources>
