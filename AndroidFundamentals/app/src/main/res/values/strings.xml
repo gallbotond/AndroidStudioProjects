@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android Fundamentals</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="birth_date">Birth Date</string>
+    <string name="country">Country</string>
+    <string name="submit">Submit</string>
+    <string name="long_text">
+        If you visit the Maven repository page for material 1.10.0, you will notice a section called \'Compile Dependencies.\' This section lists the dependencies required for the material dependency to compile and function properly. Typically, these compile dependencies are automatically included when you declare the main dependency in your project.
+    </string>
+</resources>
