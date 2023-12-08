@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="months">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string-array name="navigation_drawer_items_array">
+        <item>Connect</item>
+        <item>Fixtures</item>
+        <item>Table</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Android Fundamentals 2</string>
+    <string name="close">Close</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open">OPen</string>
+    <style name="Base.Theme.AndroidFundamentals2" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.AndroidFundamentals2" parent="Base.Theme.AndroidFundamentals2"/>
+</resources>

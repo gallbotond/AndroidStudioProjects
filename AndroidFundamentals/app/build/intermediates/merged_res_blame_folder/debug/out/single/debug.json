@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "com.example.androidfundamentals.app-merged_res-31:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.androidfundamentals.app-main-33:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.androidfundamentals.app-merged_res-31:/drawable-hdpi_ic_notification.png.flat",
+        "source": "com.example.androidfundamentals.app-main-33:/drawable-hdpi/ic_notification.png"
+    },
+    {
+        "merged": "com.example.androidfundamentals.app-merged_res-31:/drawable-anydpi_ic_notification.xml.flat",
+        "source": "com.example.androidfundamentals.app-main-33:/drawable-anydpi/ic_notification.xml"
+    },
+    {
+        "merged": "com.example.androidfundamentals.app-merged_res-31:/drawable-mdpi_ic_notification.png.flat",
+        "source": "com.example.androidfundamentals.app-main-33:/drawable-mdpi/ic_notification.png"
+    },
+    {
+        "merged": "com.example.androidfundamentals.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.androidfundamentals.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.androidfundamentals.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.androidfundamentals.app-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.androidfundamentals.app-merged_res-31:/drawable-xhdpi_ic_notification.png.flat",
+        "source": "com.example.androidfundamentals.app-main-33:/drawable-xhdpi/ic_notification.png"
+    },
+    {
+        "merged": "com.example.androidfundamentals.app-merged_res-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.androidfundamentals.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.androidfundamentals.app-merged_res-31:/xml_backup_rules.xml.flat",
+        "source": "com.example.androidfundamentals.app-main-33:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.androidfundamentals.app-merged_res-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.androidfundamentals.app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.androidfundamentals.app-merged_res-31:/drawable-xxhdpi_ic_notification.png.flat",
+        "source": "com.example.androidfundamentals.app-main-33:/drawable-xxhdpi/ic_notification.png"
+    },
+    {
+        "merged": "com.example.androidfundamentals.app-merged_res-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.androidfundamentals.app-main-33:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.androidfundamentals.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.androidfundamentals.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.androidfundamentals.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "com.example.androidfundamentals.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.androidfundamentals.app-merged_res-31:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.androidfundamentals.app-main-33:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.androidfundamentals.app-merged_res-31:/layout_constraint.xml.flat",
+        "source": "com.example.androidfundamentals.app-main-33:/layout/constraint.xml"
+    },
+    {
+        "merged": "com.example.androidfundamentals.app-merged_res-31:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.androidfundamentals.app-main-33:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.androidfundamentals.app-merged_res-31:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.androidfundamentals.app-main-33:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.androidfundamentals.app-merged_res-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.androidfundamentals.app-main-33:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.androidfundamentals.app-merged_res-31:/layout_activity_third.xml.flat",
+        "source": "com.example.androidfundamentals.app-main-33:/layout/activity_third.xml"
+    },
+    {
+        "merged": "com.example.androidfundamentals.app-merged_res-31:/layout_linear.xml.flat",
+        "source": "com.example.androidfundamentals.app-main-33:/layout/linear.xml"
+    },
+    {
+        "merged": "com.example.androidfundamentals.app-merged_res-31:/layout_custom_toast.xml.flat",
+        "source": "com.example.androidfundamentals.app-main-33:/layout/custom_toast.xml"
+    },
+    {
+        "merged": "com.example.androidfundamentals.app-merged_res-31:/layout_start_activity.xml.flat",
+        "source": "com.example.androidfundamentals.app-main-33:/layout/start_activity.xml"
+    },
+    {
+        "merged": "com.example.androidfundamentals.app-merged_res-31:/layout_activity_second.xml.flat",
+        "source": "com.example.androidfundamentals.app-main-33:/layout/activity_second.xml"
+    },
+    {
+        "merged": "com.example.androidfundamentals.app-merged_res-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.androidfundamentals.app-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.androidfundamentals.app-merged_res-31:/drawable_wolf.png.flat",
+        "source": "com.example.androidfundamentals.app-main-33:/drawable/wolf.png"
+    },
+    {
+        "merged": "com.example.androidfundamentals.app-merged_res-31:/layout_counter.xml.flat",
+        "source": "com.example.androidfundamentals.app-main-33:/layout/counter.xml"
+    },
+    {
+        "merged": "com.example.androidfundamentals.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.androidfundamentals.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.androidfundamentals.app-merged_res-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.androidfundamentals.app-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.androidfundamentals.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.androidfundamentals.app-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.androidfundamentals.app-merged_res-31:/layout_img.xml.flat",
+        "source": "com.example.androidfundamentals.app-main-33:/layout/img.xml"
+    },
+    {
+        "merged": "com.example.androidfundamentals.app-merged_res-31:/layout_pass_data.xml.flat",
+        "source": "com.example.androidfundamentals.app-main-33:/layout/pass_data.xml"
+    },
+    {
+        "merged": "com.example.androidfundamentals.app-merged_res-31:/layout_form.xml.flat",
+        "source": "com.example.androidfundamentals.app-main-33:/layout/form.xml"
+    },
+    {
+        "merged": "com.example.androidfundamentals.app-merged_res-31:/layout_calc.xml.flat",
+        "source": "com.example.androidfundamentals.app-main-33:/layout/calc.xml"
+    },
+    {
+        "merged": "com.example.androidfundamentals.app-merged_res-31:/layout_permissions.xml.flat",
+        "source": "com.example.androidfundamentals.app-main-33:/layout/permissions.xml"
+    }
+]

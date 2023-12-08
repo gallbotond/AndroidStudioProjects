@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-mergeDebugResources-65:\\layout\\fragment_second.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-mergeDebugResources-65:\\layout\\viewpager2.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\layout\\viewpager2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-mergeDebugResources-65:\\layout\\nav_header.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-mergeDebugResources-65:\\layout\\list_view_item_row.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\layout\\list_view_item_row.xml"
+    },
+    {
+        "merged": "com.example.androidfundamentals2.app-mergeDebugResources-65:/layout/activity_main.xml",
+        "source": "com.example.androidfundamentals2.app-main-68:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-mergeDebugResources-65:\\layout\\fragments.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\layout\\fragments.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-mergeDebugResources-65:\\layout\\tablayout.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\layout\\tablayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-mergeDebugResources-65:\\layout\\dialogs.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\layout\\dialogs.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-mergeDebugResources-65:\\layout\\item_todo.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\layout\\item_todo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-mergeDebugResources-65:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-mergeDebugResources-65:\\layout\\toolbar.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-mergeDebugResources-65:\\layout\\custom_spinner.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\layout\\custom_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-mergeDebugResources-65:\\layout\\choose_img_intent.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\layout\\choose_img_intent.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-mergeDebugResources-65:\\layout\\bottom_navigation.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\layout\\bottom_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-mergeDebugResources-65:\\layout\\todolist.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\layout\\todolist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-mergeDebugResources-65:\\layout\\top_bar_menu.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\layout\\top_bar_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-mergeDebugResources-65:\\layout\\fragment_first.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "com.example.androidfundamentals2.app-mergeDebugResources-65:/layout/navigation_drawer.xml",
+        "source": "com.example.androidfundamentals2.app-main-68:/layout/navigation_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-mergeDebugResources-65:\\layout\\fragment_third.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\layout\\fragment_third.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-mergeDebugResources-65:\\layout\\item_view_pager.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\layout\\item_view_pager.xml"
+    }
+]

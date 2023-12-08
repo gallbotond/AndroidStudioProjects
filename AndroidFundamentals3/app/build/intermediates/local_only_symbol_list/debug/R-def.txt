@@ -1,0 +1,26 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnSendData
+id btnStart
+id btnStop
+id cbMale
+id dragView
+id etAge
+id etName
+id llBottom
+id llTop
+id textView
+layout activity_main
+layout intents_services
+layout savedpreferences_notifications
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.AndroidFundamentals3
+style Theme.AndroidFundamentals3
+xml backup_rules
+xml data_extraction_rules

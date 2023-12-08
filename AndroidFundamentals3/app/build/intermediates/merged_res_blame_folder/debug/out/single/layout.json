@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.example.androidfundamentals3.app-mergeDebugResources-40:/layout/activity_main.xml",
+        "source": "com.example.androidfundamentals3.app-main-43:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals3.app-mergeDebugResources-40:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals3.app-main-43:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals3.app-mergeDebugResources-40:\\layout\\savedpreferences_notifications.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals3.app-main-43:\\layout\\savedpreferences_notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals3.app-mergeDebugResources-40:\\layout\\intents_services.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals3.app-main-43:\\layout\\intents_services.xml"
+    }
+]

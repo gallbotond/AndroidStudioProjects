@@ -1,0 +1,282 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\layout_top_bar_menu.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\layout\\top_bar_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.androidfundamentals2.app-merged_res-66:/layout_navigation_drawer.xml.flat",
+        "source": "com.example.androidfundamentals2.app-main-68:/layout/navigation_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\layout_viewpager2.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\layout\\viewpager2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\layout_nav_header.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\layout_fragment_second.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\layout_fragment_third.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\layout\\fragment_third.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\drawable-anydpi_ic_messages.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\drawable-anydpi\\ic_messages.xml"
+    },
+    {
+        "merged": "com.example.androidfundamentals2.app-merged_res-66:/layout_activity_main.xml.flat",
+        "source": "com.example.androidfundamentals2.app-main-68:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\layout_todolist.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\layout\\todolist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\layout_toolbar.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\drawable_img4.jpeg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\drawable\\img4.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\drawable-hdpi_ic_messages.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\drawable-hdpi\\ic_messages.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\drawable-xxhdpi_ic_add_contact.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\drawable-xxhdpi\\ic_add_contact.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\drawable-xhdpi_ic_messages.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\drawable-xhdpi\\ic_messages.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\layout_item_view_pager.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\layout\\item_view_pager.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\drawable_img2.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\drawable\\img2.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\drawable-mdpi_ic_home.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\drawable-mdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\drawable-hdpi_ic_add_contact.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\drawable-hdpi\\ic_add_contact.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\drawable-xxhdpi_ic_messages.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\drawable-xxhdpi\\ic_messages.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\layout_dialogs.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\layout\\dialogs.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\drawable-anydpi_ic_settings.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\drawable-anydpi\\ic_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\drawable-anydpi_ic_favorites.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\drawable-anydpi\\ic_favorites.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\drawable-xhdpi_ic_home.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\drawable-xhdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\drawable-xxhdpi_ic_settings.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\drawable-xxhdpi\\ic_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\layout_bottom_navigation.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\layout\\bottom_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\drawable_img0.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\drawable\\img0.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\layout_custom_spinner.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\layout\\custom_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\drawable-mdpi_ic_settings.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\drawable-mdpi\\ic_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\layout_fragments.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\layout\\fragments.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\drawable_img5.jpeg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\drawable\\img5.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\drawable-mdpi_ic_add_contact.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\drawable-mdpi\\ic_add_contact.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\drawable-xhdpi_ic_settings.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\drawable-xhdpi\\ic_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\layout_item_todo.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\layout\\item_todo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\layout_fragment_first.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\menu_app_bar_menu.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\menu\\app_bar_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\drawable_img3.jpeg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\drawable\\img3.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\layout_list_view_item_row.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\layout\\list_view_item_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\drawable-mdpi_ic_messages.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\drawable-mdpi\\ic_messages.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\drawable-hdpi_ic_settings.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\drawable-hdpi\\ic_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\drawable-xhdpi_ic_favorites.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\drawable-xhdpi\\ic_favorites.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\drawable_img1.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\drawable\\img1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\drawable-hdpi_ic_favorites.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\drawable-hdpi\\ic_favorites.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\layout_tablayout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\layout\\tablayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\drawable-mdpi_ic_favorites.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\drawable-mdpi\\ic_favorites.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\drawable-anydpi_ic_home.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\drawable-anydpi\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\layout_choose_img_intent.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\layout\\choose_img_intent.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\drawable-hdpi_ic_home.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\drawable-hdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\drawable-anydpi_ic_add_contact.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\drawable-anydpi\\ic_add_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\drawable-xxhdpi_ic_home.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\drawable-xxhdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\drawable-xhdpi_ic_add_contact.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\drawable-xhdpi\\ic_add_contact.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-merged_res-66:\\drawable-xxhdpi_ic_favorites.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.0\\com.example.androidfundamentals2.app-main-68:\\drawable-xxhdpi\\ic_favorites.png"
+    }
+]

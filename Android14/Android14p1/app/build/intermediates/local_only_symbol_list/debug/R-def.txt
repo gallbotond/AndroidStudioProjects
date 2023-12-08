@@ -1,0 +1,25 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_home
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_search
+id action_home
+id action_search
+id btn_luck
+id btn_share
+id et_name
+id textView
+id tv_lucky_number
+layout activity_lucky_number
+layout activity_main
+menu my_menu
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Android14P1
+style Theme.Android14P1
+xml backup_rules
+xml data_extraction_rules

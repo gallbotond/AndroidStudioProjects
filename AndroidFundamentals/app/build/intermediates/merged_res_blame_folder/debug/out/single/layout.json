@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "com.example.androidfundamentals.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "com.example.androidfundamentals.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.androidfundamentals.app-mergeDebugResources-30:/layout/counter.xml",
+        "source": "com.example.androidfundamentals.app-main-33:/layout/counter.xml"
+    },
+    {
+        "merged": "com.example.androidfundamentals.app-mergeDebugResources-30:/layout/start_activity.xml",
+        "source": "com.example.androidfundamentals.app-main-33:/layout/start_activity.xml"
+    },
+    {
+        "merged": "com.example.androidfundamentals.app-mergeDebugResources-30:/layout/custom_toast.xml",
+        "source": "com.example.androidfundamentals.app-main-33:/layout/custom_toast.xml"
+    },
+    {
+        "merged": "com.example.androidfundamentals.app-mergeDebugResources-30:/layout/img.xml",
+        "source": "com.example.androidfundamentals.app-main-33:/layout/img.xml"
+    },
+    {
+        "merged": "com.example.androidfundamentals.app-mergeDebugResources-30:/layout/linear.xml",
+        "source": "com.example.androidfundamentals.app-main-33:/layout/linear.xml"
+    },
+    {
+        "merged": "com.example.androidfundamentals.app-mergeDebugResources-30:/layout/form.xml",
+        "source": "com.example.androidfundamentals.app-main-33:/layout/form.xml"
+    },
+    {
+        "merged": "com.example.androidfundamentals.app-mergeDebugResources-30:/layout/activity_second.xml",
+        "source": "com.example.androidfundamentals.app-main-33:/layout/activity_second.xml"
+    },
+    {
+        "merged": "com.example.androidfundamentals.app-mergeDebugResources-30:/layout/calc.xml",
+        "source": "com.example.androidfundamentals.app-main-33:/layout/calc.xml"
+    },
+    {
+        "merged": "com.example.androidfundamentals.app-mergeDebugResources-30:/layout/permissions.xml",
+        "source": "com.example.androidfundamentals.app-main-33:/layout/permissions.xml"
+    },
+    {
+        "merged": "com.example.androidfundamentals.app-mergeDebugResources-30:/layout/activity_third.xml",
+        "source": "com.example.androidfundamentals.app-main-33:/layout/activity_third.xml"
+    },
+    {
+        "merged": "com.example.androidfundamentals.app-mergeDebugResources-30:/layout/constraint.xml",
+        "source": "com.example.androidfundamentals.app-main-33:/layout/constraint.xml"
+    },
+    {
+        "merged": "com.example.androidfundamentals.app-mergeDebugResources-30:/layout/pass_data.xml",
+        "source": "com.example.androidfundamentals.app-main-33:/layout/pass_data.xml"
+    }
+]

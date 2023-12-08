@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2cf567cc-a4e3-41a6-b681-2b05bd3709fa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/androidbasics2023/ContactsViewModel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/androidbasics2023/MyApplication.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/androidbasics2023/MyViewModel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/androidbasics2023/SecondActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/androidbasics2023/ui/theme/ImageViewModel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals/app/src/main/java/com/example/androidfundamentals/Person.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals/app/src/main/java/com/example/androidfundamentals/SecondActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals/app/src/main/java/com/example/androidfundamentals/ThirdActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals/app/src/main/res/drawable-anydpi/ic_notification.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals/app/src/main/res/drawable-hdpi/ic_notification.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals/app/src/main/res/drawable-mdpi/ic_notification.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals/app/src/main/res/drawable-xhdpi/ic_notification.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals/app/src/main/res/drawable-xxhdpi/ic_notification.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals/app/src/main/res/drawable/wolf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals/app/src/main/res/layout/activity_second.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals/app/src/main/res/layout/activity_third.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals/app/src/main/res/layout/calc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals/app/src/main/res/layout/constraint.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals/app/src/main/res/layout/counter.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals/app/src/main/res/layout/custom_toast.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals/app/src/main/res/layout/form.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals/app/src/main/res/layout/img.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals/app/src/main/res/layout/linear.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals/app/src/main/res/layout/pass_data.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals/app/src/main/res/layout/permissions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals/app/src/main/res/layout/start_activity.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals/app/src/main/res/values/ids.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/java/com/example/androidfundamentals2/FirstFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/java/com/example/androidfundamentals2/SecondFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/java/com/example/androidfundamentals2/ThirdFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/java/com/example/androidfundamentals2/Todo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/java/com/example/androidfundamentals2/TodoAdapter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/java/com/example/androidfundamentals2/ViewPagerAdapter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/res/drawable-anydpi/ic_add_contact.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/res/drawable-anydpi/ic_favorites.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/res/drawable-anydpi/ic_home.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/res/drawable-anydpi/ic_messages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/res/drawable-anydpi/ic_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/res/drawable-hdpi/ic_add_contact.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/res/drawable-hdpi/ic_favorites.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/res/drawable-hdpi/ic_home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/res/drawable-hdpi/ic_messages.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/res/drawable-hdpi/ic_settings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/res/drawable-mdpi/ic_add_contact.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/res/drawable-mdpi/ic_favorites.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/res/drawable-mdpi/ic_home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/res/drawable-mdpi/ic_messages.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/res/drawable-mdpi/ic_settings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/res/drawable-xhdpi/ic_add_contact.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/res/drawable-xhdpi/ic_favorites.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/res/drawable-xhdpi/ic_home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/res/drawable-xhdpi/ic_messages.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/res/drawable-xhdpi/ic_settings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/res/drawable-xxhdpi/ic_add_contact.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/res/drawable-xxhdpi/ic_favorites.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/res/drawable-xxhdpi/ic_home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/res/drawable-xxhdpi/ic_messages.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/res/drawable-xxhdpi/ic_settings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/res/drawable/img0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/res/drawable/img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/res/drawable/img2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/res/drawable/img3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/res/drawable/img4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/res/drawable/img5.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/res/layout/bottom_navigation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/res/layout/choose_img_intent.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/res/layout/custom_spinner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/res/layout/dialogs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/res/layout/fragment_first.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/res/layout/fragment_second.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/res/layout/fragment_third.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/res/layout/fragments.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/res/layout/item_todo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/res/layout/item_view_pager.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/res/layout/list_view_item_row.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/res/layout/nav_header.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/res/layout/navigation_drawer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/res/layout/tablayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/res/layout/todolist.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/res/layout/toolbar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/res/layout/top_bar_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/res/layout/viewpager2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/res/menu/app_bar_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/res/menu/bottom_nav_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2/app/src/main/res/navigation/nav_graph.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals2023/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals3/app/src/main/java/com/example/androidfundamentals3/AriplaneModeChangedReceiver.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals3/app/src/main/java/com/example/androidfundamentals3/MyIntentService.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals3/app/src/main/java/com/example/androidfundamentals3/MyService.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals3/app/src/main/res/layout/dragview.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals3/app/src/main/res/layout/intents_services.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AndroidFundamentals3/app/src/main/res/layout/savedpreferences_notifications.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JetpackComposeCC/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JetpackComposeCC/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JetpackComposeCC/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JetpackComposeCC/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JetpackComposeCC/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JetpackComposeCC/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JetpackComposeCC/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\Administrator\.android\avd\Pixel_2_API_30.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2YaoPKFsL4iBPgAOGH0VJPFhEXB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cidr.known.project.marker": "true",
+    "settings.editor.selected.configurable": "AndroidSdkUpdater"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="Android_Basics_2023.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Android Basics 2023" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Android Basics 2023" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2cf567cc-a4e3-41a6-b681-2b05bd3709fa" name="Changes" comment="" />
+      <created>1700773025533</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700773025533</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
