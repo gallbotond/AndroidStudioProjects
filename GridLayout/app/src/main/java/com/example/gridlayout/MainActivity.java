@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
 
         customAdapter = new CustomAdapter(shapes, getApplicationContext());
         gridView.setAdapter(customAdapter);
-        gridView.setNumColumns(2);
+//        gridView.setNumColumns(2);
 
         gridView.setOnItemClickListener((parent, view, position, id) -> {
             Intent i = new Intent(getApplicationContext(), Sphere.class);
