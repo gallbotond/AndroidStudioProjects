@@ -1,6 +1,8 @@
 plugins {
     id("com.android.application")
+//    id("dagger.hilt.android.plugin")
 }
+
 
 android {
     namespace = "com.example.apifetchandpagingandhiltdaggerandmore"
@@ -14,6 +16,10 @@ android {
         versionName = "1.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildFeatures {
+        viewBinding = true
     }
 
     buildTypes {
@@ -39,4 +45,30 @@ dependencies {
     testImplementation("junit:junit:4.13.2")
     androidTestImplementation("androidx.test.ext:junit:1.1.5")
     androidTestImplementation("androidx.test.espresso:espresso-core:3.5.1")
+
+    // retrofit
+    implementation("com.squareup.retrofit2:retrofit:2.9.0")
+    implementation("com.google.code.gson:gson:2.10.1")
+    implementation("com.squareup.retrofit2:converter-gson:2.9.0")
+    implementation("com.squareup.retrofit2:adapter-rxjava3:2.9.0")
+
+    // paging
+    val pagingVersion = "3.2.1"
+    implementation("androidx.paging:paging-runtime:$pagingVersion")
+    // optional - RxJava3 support
+    implementation("androidx.paging:paging-rxjava3:$pagingVersion")
+
+    // hilt
+    implementation("com.google.dagger:hilt-android:2.49")
+    annotationProcessor("com.google.dagger:hilt-compiler:2.49")
+//    implementation("com.google.dagger.hilt.android")
+
+
+    // glide
+    implementation("com.github.bumptech.glide:glide:4.16.0")
+
+    // lifecycle
+    val lifecycleVersion = "2.6.2"
+    implementation("androidx.lifecycle:lifecycle-viewmodel-ktx:$lifecycleVersion")
+    implementation("androidx.lifecycle:lifecycle-livedata-ktx:$lifecycleVersion")
 }
