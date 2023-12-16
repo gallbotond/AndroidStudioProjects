@@ -1,6 +1,6 @@
 plugins {
     id("com.android.application")
-//    id("dagger.hilt.android.plugin")
+    id("dagger.hilt.android.plugin")
 }
 
 
@@ -63,12 +63,14 @@ dependencies {
     annotationProcessor("com.google.dagger:hilt-compiler:2.49")
 //    implementation("com.google.dagger.hilt.android")
 
-
     // glide
     implementation("com.github.bumptech.glide:glide:4.16.0")
 
     // lifecycle
     val lifecycleVersion = "2.6.2"
     implementation("androidx.lifecycle:lifecycle-viewmodel-ktx:$lifecycleVersion")
-    implementation("androidx.lifecycle:lifecycle-livedata-ktx:$lifecycleVersion")
+    implementation("androidx.lifecycle:lifecycle-viewmodel:$lifecycleVersion")
+    implementation("androidx.lifecycle:lifecycle-extensions:2.2.0")
+//    implementation("androidx.lifecycle:lifecycle-livedata-ktx:$lifecycleVersion")
+//    implementation("androidx.lifecycle:lifecycle-runtime-ktx:$lifecycleVersion")
 }

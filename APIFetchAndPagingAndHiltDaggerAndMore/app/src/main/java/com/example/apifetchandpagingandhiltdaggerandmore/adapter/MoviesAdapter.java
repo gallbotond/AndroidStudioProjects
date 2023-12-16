@@ -46,4 +46,9 @@ public class MoviesAdapter extends PagingDataAdapter<Movie, MoviesAdapter.MovieV
             this.movieItemBinding = movieItemBinding;
         }
     }
+
+//    @Override
+//    public int getItemCount() {
+//        return 2;
+//    }
 }

@@ -25,6 +25,8 @@
         android:layout_height="wrap_content"
         android:layout_gravity="end|bottom"
         android:padding="8dp"
+        android:background="#FF0000"
+        android:textColor="@color/white"
         android:text="8.9"/>
 
 </androidx.cardview.widget.CardView>
